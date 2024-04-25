@@ -13,6 +13,13 @@ body {
     flex-direction: column;
 }
 
+#back-logo {
+    position: fixed;
+    top: 10px;
+    left: 10px;
+    cursor: pointer;
+}
+
 #point-display  {
     background-color: #b0e0e6;
     border-radius:  10px;
